@@ -1,0 +1,57 @@
+English:
+Amazon to expand drone delivery into Britain and Italy
+Amazon on Wednesday said it hopes to expand drone delivery into Britain and Italy by late next year, as it unveiled new warehouse robots and tech in its race to get shoppers what they want quickly.
+The Seattle-based e-commerce colossus said it will expand drone delivery of certain purchases to a third US state as well as to the two European countries by the end of 2024.
+Amazon delivery drones are already at work in California and Texas, and a new MK30 model will be able to operate in more extreme weather conditions than those currently in use, Amazon Prime Air vice president David Carbon said during a marketing event.
+"Our customers have always wanted things faster and I think this is a way we can get to it at scale," said Prime AI director of engineering Jason Patrao, adding that the drone program, while currently small, "is going to be something that I think we will all get used to."
+Amazon has also installed a new robotics system called Sequoia in one of its Texas logistics centers, the company said.
+The system features automated vehicles, gantry cranes, mechanical arms, computer vision technologies and ergonomic workstations for employees, a presentation showed.
+Amazon already uses 750,000 robots in its warehouses, but the idea is to make the various machines more interoperable, according to executives.
+"It becomes magical when you blend multiple robotics systems with our amazing people," said Amazon Robotics chief technologist Tye Brady.
+Sequoia can identify and put away stock in warehouses "up to 75 percent faster" than that was previously possible, the company said in a statement.
+And order processing time can be reduced by 25 percent in best-case scenarios.
+"This means we can list items on sale on Amazon.com more quickly, benefitting both sellers and customers," Amazon said.
+Traditional brick-and-mortar stores still account for about 80 percent of retail business, but sales are likely to shift more online the more such immediate gratification through fast delivery becomes available, analysts said.
+"The better they get at delivery, the more it continues to grow the e-commerce market overall and Amazon's place within that market," said Insider Intelligence analyst Andrew Lipsman.
+The popular online shopping platform became a lifeline for many during the pandemic, but since this year it has been facing a new kind of competition from Chinese e-commerce apps.
+Fashion retailer Shein and especially Temu, which offers beauty products, homeware and electronics, have won over many consumers with their low prices.
+"Given how aggressively Temu is trying to compete with Amazon and the money they seem to be willing to spend on logistics and getting cheap goods to people, I'm sure Amazon has some level of concern," Lipsman said.
+Jobs versus robots
+Without specifying whether jobs would be lost through the use of robots, Amazon emphasized the gains in terms of safety, sparing workers from repetitive tasks and even creating jobs.
+"Over the past ten years, we have installed hundreds of thousands of robotic systems while creating hundreds of thousands of jobs," the group stressed.
+"We think that the repetitive, the mundane work that people do, we do see that shifting more to robotics," said Scott Dresser, vice president for Amazon robotics.
+"There's also an opportunity to make things safer, when people (are) bending and lifting heavy objects, when people are walking miles in the fulfillment center," he said.
+Amazon, the second-largest employer in the US, just behind Walmart, will also be testing android-like machines from Agility Robotics to carry plastic bins.
+"The problem is not that you're even taking a job... The problem is there's no person to even do the work," he said.
+But increased productivity via robots won't fix underlying Amazon worker issues, critics say.
+"There's about a million unfilled logistics, manual labor jobs" in the United States currently, said Agility cofounder Damion Shelton.
+"It's not going to change their logic. And their logic is 'use these workers up and throw them away'," said Sheheryar Kaoosji, executive director of the Warehouse Worker Resource Center, a nonprofit dedicated to improving warehouse industry conditions in southern California.
+
+Vietnamese:
+Amazon mở rộng việc giao hàng bằng máy bay không người lái sang Anh và Ý
+Amazon hôm thứ Tư cho biết họ hy vọng sẽ mở rộng việc giao hàng bằng máy bay không người lái sang Anh và Ý vào cuối năm tới, khi họ tiết lộ các robot kho hàng và công nghệ mới trong cuộc đua giúp người mua hàng nhanh chóng có được thứ họ muốn.
+Gã khổng lồ thương mại điện tử có trụ sở tại Seattle cho biết họ sẽ mở rộng việc giao hàng bằng máy bay không người lái đối với một số giao dịch mua nhất định đến một tiểu bang thứ ba của Hoa Kỳ cũng như hai nước châu Âu vào cuối năm 2024.
+Phó chủ tịch Amazon Prime Air, David Carbon, cho biết trong một sự kiện tiếp thị rằng máy bay không người lái giao hàng của Amazon đã hoạt động ở California và Texas, và mẫu MK30 mới sẽ có thể hoạt động trong điều kiện thời tiết khắc nghiệt hơn những mẫu hiện đang được sử dụng.
+Giám đốc kỹ thuật của Prime AI Jason Patrao cho biết: “Khách hàng của chúng tôi luôn muốn mọi thứ nhanh hơn và tôi nghĩ đây là cách chúng tôi có thể đạt được điều đó trên quy mô lớn”. Ông cho biết thêm rằng "chương trình máy bay không người lái, mặc dù hiện tại còn nhỏ nhưng tôi nghĩ tất cả chúng ta sẽ quen thôi."
+Amazon cũng đã lắp đặt một hệ thống robot mới có tên Sequoia tại một trong những trung tâm hậu cần ở Texas, công ty cho biết.
+Một bài thuyết trình cho thấy hệ thống này bao gồm các phương tiện tự động, cần trục, cánh tay cơ khí, công nghệ thị giác máy tính và các trạm làm việc tiện dụng cho nhân viên.
+Theo các giám đốc điều hành, Amazon đã sử dụng 750.000 robot trong kho của mình nhưng ý tưởng là làm cho các máy móc khác nhau có khả năng tương tác cao hơn.
+Tye Brady, nhà công nghệ trưởng của Amazon Robotics cho biết: “Thật kỳ diệu khi bạn kết hợp nhiều hệ thống robot với những con người tuyệt vời của chúng tôi”.
+Sequoia có thể xác định và đưa hàng vào kho “nhanh hơn tới 75%” so với trước đây, công ty cho biết trong một tuyên bố.
+Và thời gian xử lý đơn hàng có thể giảm 25% trong trường hợp tốt nhất.
+Amazon cho biết: “Điều này có nghĩa là chúng tôi có thể liệt kê các mặt hàng được bán trên Amazon.com nhanh hơn, mang lại lợi ích cho cả người bán và khách hàng”.
+Các nhà phân tích cho biết các cửa hàng truyền thống vẫn chiếm khoảng 80% hoạt động kinh doanh bán lẻ, nhưng doanh số bán hàng có thể sẽ chuyển sang trực tuyến nhiều hơn khi sự hài lòng ngay lập tức thông qua giao hàng nhanh trở nên phổ biến.
+Nhà phân tích Andrew Lipsman của Insider Intelligence cho biết: “Họ càng giao hàng tốt thì thị trường thương mại điện tử nói chung và vị trí của Amazon trong thị trường đó càng tiếp tục phát triển”.
+Nền tảng mua sắm trực tuyến phổ biến đã trở thành cứu cánh cho nhiều người trong thời kỳ đại dịch, nhưng kể từ năm nay, nó phải đối mặt với một loại cạnh tranh mới từ các ứng dụng thương mại điện tử Trung Quốc.
+Nhà bán lẻ thời trang Shein và đặc biệt là Temu, chuyên cung cấp các sản phẩm làm đẹp, đồ gia dụng và đồ điện tử, đã thu hút được nhiều người tiêu dùng nhờ mức giá thấp.
+Lipsman nói: “Với việc Temu đang cố gắng cạnh tranh quyết liệt với Amazon như thế nào và số tiền mà họ dường như sẵn sàng chi cho hậu cần và đưa hàng hóa giá rẻ đến tay người tiêu dùng, tôi chắc chắn rằng Amazon có một số lo ngại”.
+Việc làm so với robot
+Không nói rõ liệu việc làm có bị mất do sử dụng robot hay không, Amazon nhấn mạnh những lợi ích về mặt an toàn, giúp người lao động không phải làm những công việc lặp đi lặp lại và thậm chí tạo ra việc làm.
+Tập đoàn này nhấn mạnh: “Trong mười năm qua, chúng tôi đã lắp đặt hàng trăm nghìn hệ thống robot đồng thời tạo ra hàng trăm nghìn việc làm”.
+Scott Dresser, phó chủ tịch phụ trách robot của Amazon, cho biết: “Chúng tôi nghĩ rằng công việc nhàm chán, lặp đi lặp lại mà mọi người làm, chúng tôi nhận thấy rằng điều đó đang chuyển sang chế tạo robot nhiều hơn”.
+Ông nói: “Cũng có cơ hội để làm cho mọi thứ trở nên an toàn hơn khi mọi người uốn cong và nâng vật nặng, khi mọi người phải đi bộ hàng dặm trong trung tâm xử lý đơn hàng”.
+Amazon, nhà tuyển dụng lớn thứ hai ở Mỹ, chỉ sau Walmart, cũng sẽ thử nghiệm những chiếc máy giống android của Agility Robotics để mang thùng nhựa.
+Ông nói: “Vấn đề không phải là bạn đang nhận một công việc… mà vấn đề là không có người nào thực hiện công việc đó”.
+Tuy nhiên, các nhà phê bình cho rằng năng suất tăng lên nhờ robot sẽ không giải quyết được các vấn đề cơ bản của công nhân Amazon.
+Damion Shelton, người đồng sáng lập Agility, cho biết: “Hiện tại có khoảng một triệu công việc lao động chân tay và vận tại chưa đủ nhân lực” ở Hoa Kỳ.
+Sheheryar Kaoosji, giám đốc điều hành của Trung tâm Nguồn lực Công nhân Kho hàng, một tổ chức phi lợi nhuận chuyên cải thiện điều kiện của ngành kho bãi ở miền nam California, cho biết: “Điều đó sẽ không thay đổi logic của họ. Và logic của họ là ‘sử dụng những công nhân này và sa thải họ’”.
