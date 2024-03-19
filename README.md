@@ -15,7 +15,8 @@ Before running the scripts, ensure you have Python 3 installed on your system. Y
 Install all the necessary Python packages listed in requirements.txt by running the following command:
 
 ```sh 
-pip install -r requirements.txt 
+pip install -r requirements.txt
+```
 
 ### Usage
 
@@ -26,7 +27,7 @@ Run GetLink.py to scrape and save the links for each news page. This script outp
 ```sh 
 
 python3 GetLink.py
-
+```
 
 Step 2: Translating Articles
 
@@ -35,3 +36,4 @@ Once you have obtained the list of links, run main.py to process these links and
 ```sh 
 
 python3 main.py
+```
