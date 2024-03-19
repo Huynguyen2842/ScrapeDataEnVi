@@ -16,3 +16,22 @@ Install all the necessary Python packages listed in requirements.txt by running 
 
 ```sh 
 pip install -r requirements.txt 
+
+### Usage
+
+Step 1: Fetching Article Links
+
+Run GetLink.py to scrape and save the links for each news page. This script outputs a file containing all the scraped links.
+
+```sh 
+
+python3 GetLink.py
+
+
+Step 2: Translating Articles
+
+Once you have obtained the list of links, run main.py to process these links and get the translation of articles. The script will output the translated articles, formatted as specified, into a designated directory.
+
+```sh 
+
+python3 main.py
